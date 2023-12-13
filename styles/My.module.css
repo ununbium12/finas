@@ -1,0 +1,25 @@
+/* 최대한 똑같은 틀로, 다른색, 다른크기, 다른 글자색으로 구별하게 좋게 설정 */
+
+.title {
+  background: red;
+  color: white;
+  padding: 10px;
+}
+
+.name {
+  background: blue;
+  color: yellow;
+  padding: 5px;
+}
+
+.no {
+  background: green;
+  color: purple;
+  padding: 2px;
+}
+
+.nav {
+  background: gray;
+  color: white;
+  padding: 7px;
+}
